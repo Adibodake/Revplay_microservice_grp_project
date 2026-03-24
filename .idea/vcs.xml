@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/properties" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/revplay-analytics-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/revplay-api-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/revplay-catalog-service" vcs="Git" />

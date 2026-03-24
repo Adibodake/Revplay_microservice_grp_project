@@ -20,7 +20,7 @@
         </processorPath>
         <module name="revplay-api-gateway" />
       </profile>
-      <profile name="Annotation profile for revplay-favorites-service" enabled="true">
+      <profile name="Annotation profile for revplay-user-service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -30,8 +30,8 @@
         <module name="revplay-playlist-service" />
         <module name="revplay-user-service" />
         <module name="revplay-analytics-service" />
-        <module name="revplay-favorites-service" />
         <module name="revplay-playback-service" />
+        <module name="revplay-favorites-service" />
         <module name="revplay-catalog-service" />
       </profile>
     </annotationProcessing>
